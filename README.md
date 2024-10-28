@@ -75,7 +75,7 @@
 
 ![image](https://github.com/user-attachments/assets/ee434fd6-54c7-488b-a9c4-a048015ff665)
 
-8. При нажатии на кнопку "Взять книгу" кнопку заменит надпись и выбранная книга добавится на страницу пользователя в "Мои книги" 
+8. При нажатии на кнопку "Взять книгу", выбранная книга добавится на страницу пользователя в "Мои книги" 
 
 ![image](https://github.com/user-attachments/assets/2e6ea2fd-230f-4fc1-937b-682060402216)
 ![image](https://github.com/user-attachments/assets/f7d4e0f6-c0c8-45c0-a8e6-7a1a93986c64)
@@ -88,7 +88,7 @@
 
 ![image](https://github.com/user-attachments/assets/67c99ab9-955f-4273-a95d-a2d1250c74cd)
 
-11. При нажатии на кнопку "Добавить книгу" ткрывается страница добавления книги
+11. При нажатии на кнопку "Добавить книгу" открывается страница добавления книги
 
 ![image](https://github.com/user-attachments/assets/ba692ec3-21c0-4afe-93e9-a27cc3802eb7)
 
