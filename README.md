@@ -96,3 +96,13 @@
 
 ![image](https://github.com/user-attachments/assets/689a0504-668c-4f13-b6dc-9b21837033d9)
 
+13. Регистрация пользователя
+
+![image](https://github.com/user-attachments/assets/361fa7ad-0f5b-4c03-ad76-84e72c043598)
+![image](https://github.com/user-attachments/assets/55b900db-4dfe-446d-9295-77938dcc7dbd)
+
+14. У обычного пользователя нет возможностей администратора - доступна только кнопка "Взять книгу"
+
+![image](https://github.com/user-attachments/assets/c6634290-66ab-4d7f-bc4a-0dc68d764ff7)
+
+
